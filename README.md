@@ -16,11 +16,11 @@ This neural network model is a simple implementation to better understand the me
 The model is applied to the MNIST dataset, a set of 28x28 pixel grayscale images of handwritten digits. The goal is to classify these digits into one of the 10 possible classes (0-9).
 
 # Features
-Implemented using only Numpy (no external ML frameworks).\n
-Three-layer architecture (input, hidden, output).\n
-Utilizes ReLU and Softmax activation functions.\n
-Gradient Descent optimization for weight updates.\n
-Supports training and evaluation on the MNIST dataset.\n
+Implemented using only Numpy (no external ML frameworks).
+Three-layer architecture (input, hidden, output).
+Utilizes ReLU and Softmax activation functions.
+Gradient Descent optimization for weight updates.
+Supports training and evaluation on the MNIST dataset.
 
 # Getting Started
 To get started with this project, you’ll need to clone this repository and install the necessary dependencies.

@@ -1,4 +1,7 @@
 numpy
 matplolib
 pandas
+streamlit
+pillow 
+requests
 

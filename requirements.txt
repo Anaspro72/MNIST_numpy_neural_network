@@ -1,5 +1,5 @@
 numpy
-matplolib
+matplotlib
 pandas
 streamlit
 pillow 
